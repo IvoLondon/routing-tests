@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import Courses from './containers/Courses/Courses';
+import Course from './containers/Course/Course';
 import Users from './containers/Users/Users';
 import Navigation from './components/Navigation/Navigation'
 import { BrowserRouter, Switch, Route, NavLink } from 'react-router-dom'
